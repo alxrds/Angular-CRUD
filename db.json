@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Alexandre",
+      "lastName": "Rodrigues",
+      "email": "alexandredevapp@gmail.com",
+      "mobile": "62984931520",
+      "salary": "40.000"
+    }
+  ]
+}
